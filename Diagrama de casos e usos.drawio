@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-13T23:26:10.577Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0" etag="VaeJN0hlLKZkEBIenSz8" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-13T23:27:06.916Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 OPR/95.0.0.0" etag="SbYD6U2zxZKPG0gRnDMz" version="21.0.6" type="github">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="877" dy="1564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
           <mxGeometry x="654" y="180" width="220" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Fl6Ef7ADgZF6Qhnjqcl2-3" value="&lt;h1&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Fluxo normal&lt;/font&gt;&lt;/h1&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;br style=&quot;border-color: var(--border-color); text-align: center;&quot;&gt;1) ADICIONAR TAREFA&amp;nbsp;&lt;br&gt;2)&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); text-align: center;&quot;&gt;APRESENTAR TITULO, DESCRIÇÃO, DATA&amp;nbsp; E STATUS DA TAREFA&lt;br&gt;3) SELECIONAR TAREFA&lt;br&gt;4) EDITAR TAREFA&lt;br&gt;5) EXCLUIR TAREFA&amp;nbsp;&lt;br&gt;6) FLUXO ENCERRADO&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;h1 style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/h1&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;text-align: center;&quot;&gt;3)&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="980" y="31" width="420" height="120" as="geometry" />
+          <mxGeometry x="980" y="31" width="420" height="159" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
